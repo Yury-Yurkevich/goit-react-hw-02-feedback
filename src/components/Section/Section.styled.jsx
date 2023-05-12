@@ -5,5 +5,5 @@ export const Container = styled.section`
 `;
 
 export const Title = styled.h2`
-  margin-bottom: 16px;
+  margin-bottom: 20px;
 `;

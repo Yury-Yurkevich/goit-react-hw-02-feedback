@@ -17,11 +17,11 @@ export const Button = styled.button`
   font-size: 14px;
   font-weight: 500;
   border: 1px solid;
-  border-radius: 2px;
+  border-radius: 4px;
   &:focus,
   &:hover {
     cursor: pointer;
-    background-color: #5a7ec5;
+    background-color: #4a7ec5;
     transform: scale(1.1);
   }
 `;
